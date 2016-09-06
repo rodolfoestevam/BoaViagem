@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Boa Viagem</string>
+    <string name="erro_autenticao">Usuario ou senha invalidos</string>
+    <string name="configuracoes">Configuracoes </string>
+    <string name="novo_gasto">Novo Gasto</string>
+    <string name="minhas_viagens">Minhas Viagens</string>
+    <string name="nova_viagem">Nova Viagem</string>
+</resources>
